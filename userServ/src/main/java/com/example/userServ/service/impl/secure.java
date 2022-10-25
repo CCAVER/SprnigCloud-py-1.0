@@ -36,6 +36,6 @@ public class secure implements MySecure {
 
     @Override
     public void add(String username,String password){
-        accountDao.add(username,encryptPassword(password));
+        accountDao.reg(username,encryptPassword(password),1);
     }
 }

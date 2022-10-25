@@ -4,93 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="172d1575-f395-4d39-832a-9b799b121d31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FINALWORK5_CLOUD - 副本.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FINALWORK5_CLOUDs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FINALWORK7_CLOUD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/src/main/java/com/example/finalwork4/Finalwork3Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/src/main/java/com/example/finalwork4/domain/pyInf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonWork/src/test/java/com/example/finalwork4/Finalwork3ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pyInf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/example/eurekaserver/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/test/java/com/example/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/hs_err_pid75172.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/replay_pid75172.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/main/java/com/example/pyConn/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/main/java/com/example/pyConn/controller/pyControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/main/java/com/example/pyConn/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/main/java/com/example/pyConn/domain/image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/main/java/com/example/pyConn/pyConnApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/main/java/com/example/pyConn/service/impl/pyServImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/main/java/com/example/pyConn/service/pyServ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyConn/src/test/java/com/example/pyConn/ProviderApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FINALWORK5_CLOUD-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/ConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/controller/ImgWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/controller/checker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/controller/dataControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/controller/pyCaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/controller/turnPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/domain/account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/domain/image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/domain/pyDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/domain/user.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/service/AcServ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/service/FeAc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/service/MySecure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/service/impl/AcServImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/service/impl/secure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/resources/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/resources/templates/logPage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/resources/templates/py.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/resources/templates/reg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/main/resources/templates/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userServ/src/test/java/com/example/userServ/ConsumerApplicationTests.java" afterDir="false" />
+    <list default="true" id="172d1575-f395-4d39-832a-9b799b121d31" name="Default Changelist" comment="python 程序">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyConn/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/pyConn/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/dao/AccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/service/impl/secure.java" beforeDir="false" afterPath="$PROJECT_DIR$/userServ/src/main/java/com/example/userServ/service/impl/secure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userServ/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/userServ/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +41,7 @@
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
         <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
@@ -137,41 +60,43 @@
     </option>
   </component>
   <component name="ProjectId" id="1ghsTFsTefQa89XKXLXPT2nkQsT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8 (2)&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IDEA/FINALWORK8_CLOUD&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.56436783&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;GitLabConfigurableProvider&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;22b97deff58d88b939f9c598cfa9bea4&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-1.8 (2)",
+    "last_opened_file_path": "D:/IDEA/AssetManageII",
+    "list.type.of.created.stylesheet": "CSS",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.56436783",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "22b97deff58d88b939f9c598cfa9bea4"
   }
-}</component>
+}]]></component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\FINALWORK8_CLOUD" />
       <recent name="D:\IDEA\FINALWORK7_CLOUD\PythonWork\src\main\java\com\example\finalwork4\domain" />
       <recent name="D:\IDEA\FINALWORK7_CLOUD\userServ\src\main\java\com\example\userServ\domain" />
       <recent name="D:\IDEA\FINALWORK5_CLOUDs\common" />
       <recent name="D:\IDEA\FINALWORK5_CLOUD - 副本\userServ\src\main\resources" />
-      <recent name="D:\IDEA\FINALWORK5_CLOUD - 副本\userServ\src\main\java\com\example\consumer\service" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.pyConn.config" />
@@ -289,10 +214,65 @@
       <workItem from="1656902220202" duration="703000" />
       <workItem from="1662979972787" duration="3393000" />
       <workItem from="1662992958312" duration="776000" />
+      <workItem from="1663243099898" duration="660000" />
+      <workItem from="1663247537027" duration="67000" />
+      <workItem from="1663248003758" duration="387000" />
+      <workItem from="1663250140886" duration="608000" />
+      <workItem from="1663571369053" duration="23000" />
+      <workItem from="1663571581044" duration="2091000" />
+      <workItem from="1664175380122" duration="2215000" />
+      <workItem from="1664255003058" duration="8604000" />
+      <workItem from="1664266212108" duration="1070000" />
+      <workItem from="1664352941793" duration="5176000" />
+      <workItem from="1664363423042" duration="858000" />
+      <workItem from="1664364806604" duration="1405000" />
+      <workItem from="1664416155564" duration="407000" />
+      <workItem from="1664417580476" duration="1186000" />
+      <workItem from="1664429742985" duration="343000" />
+      <workItem from="1664430275148" duration="3608000" />
+      <workItem from="1664434051248" duration="1671000" />
+      <workItem from="1664436404527" duration="4709000" />
+      <workItem from="1664442844497" duration="972000" />
+      <workItem from="1664444750670" duration="751000" />
+      <workItem from="1664534192560" duration="2600000" />
+      <workItem from="1664536989955" duration="8067000" />
+      <workItem from="1664550626519" duration="303000" />
+      <workItem from="1664631067670" duration="4487000" />
+      <workItem from="1664699874964" duration="1364000" />
+      <workItem from="1664710736684" duration="7558000" />
+      <workItem from="1664763825463" duration="131000" />
+      <workItem from="1664773674126" duration="3750000" />
+      <workItem from="1664876023218" duration="689000" />
+      <workItem from="1665974456453" duration="593000" />
+      <workItem from="1665975662488" duration="2732000" />
+      <workItem from="1666681212178" duration="4024000" />
     </task>
+    <task id="LOCAL-00001" summary="python 程序">
+      <created>1665977209051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665977209052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python 程序" />
+    <option name="LAST_COMMIT_MESSAGE" value="python 程序" />
   </component>
 </project>

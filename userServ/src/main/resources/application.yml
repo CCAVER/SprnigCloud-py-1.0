@@ -5,7 +5,7 @@ eureka:
       defaultZone: http://localhost:8888/eureka/
 server:
   #运行端口
-  port: 8764
+  port: 80
 spring:
   application:
     #服务注册名称

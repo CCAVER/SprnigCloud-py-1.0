@@ -53,4 +53,7 @@ public interface AccountDao {
 
     @Delete("delete from images where id=${id}")
     void doDel(@Param("id") String id);
+
+    @Select("SELECT reg(\"${username}\",\"${psw}\",${iden});")
+    int reg(@Param("username") String username,@Param("psw") String psw,@Param("iden") int iden);
 }

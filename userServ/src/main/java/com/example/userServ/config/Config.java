@@ -43,8 +43,8 @@ public class Config extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http.
                 authorizeRequests()
-                //.antMatchers("/**").permitAll()  //允许/路径下的url
-                .antMatchers("/logPage","/reg","/","/doreg","/docheck").permitAll()
+                .antMatchers("/**").permitAll()  //允许/路径下的url
+                //.antMatchers("/logPage","/reg","/","/doreg","/docheck").permitAll()
                 .anyRequest().authenticated()    //操作必须是已登录状态
                 .and()
                 .formLogin()
@@ -69,7 +69,7 @@ public class Config extends WebSecurityConfigurerAdapter {
     protected void configure(AuthenticationManagerBuilder auth)throws Exception{
         BCryptPasswordEncoder encoder=new BCryptPasswordEncoder();
         String accountSql="select username,password,valid from user where username=?";
-        String auSql="select DISTINCT c.username,a.authority from user c,ua a,aa ac where ac.id=ac.accid and a.id=ac.aid and c.username=?";
+        String auSql="select DISTINCT user.username,status.authority from user,ua status,aa identity where user.uid=identity.accid and identity.aid=status.id and user.username=?";
         //System.out.println("doing   config");
         auth.jdbcAuthentication().passwordEncoder(encoder).dataSource(dataSource).usersByUsernameQuery(accountSql).authoritiesByUsernameQuery(auSql);
     }
